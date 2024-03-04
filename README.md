@@ -37,7 +37,7 @@ To get started with the GenAI project, clone this repository and install the nec
 Ensure you have PyTorch and torchvision installed, along with matplotlib for visualization.
 
 ```bash
-git clone https://github.com/yourusername/genai.git
+git clone https://github.com/Harshverdhan19/GenAI.git
 cd genai
 # Activate your virtual environment or conda environment
 pip install torch torchvision matplotlib tqdm
